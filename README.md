@@ -1,2 +1,3 @@
 # hello-world
-My first repo.
+
+Joey here, just trying to figure this stuff out.
